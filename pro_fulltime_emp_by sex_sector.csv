@@ -1,0 +1,19 @@
+Number of full-time employed person by Sex and Sector in Littleland in 2012,,,
+,,,
+,,,
+sector,total,female,male
+0,634,332,302
+1,4104,2051,2053
+2,4003,2024,1979
+3,10649,5385,5264
+4,7838,3989,3849
+5,5917,3065,2852
+6,1865,934,931
+7,1556,792,764
+9,288,150,138
+,,,
+,,,
+Footnote,,,
+"For Sector :  1 = Food Industry, 2=Mining industry, 3=Manufacturing industry, 4=Retail, 5=Public, 6=Transportation, 7=Energy",,,
+"Sector 0,9 undefined",,,
+Missing values for sector are omitted,,,
