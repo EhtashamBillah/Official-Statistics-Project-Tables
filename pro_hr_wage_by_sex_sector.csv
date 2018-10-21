@@ -1,0 +1,19 @@
+Average hourly earnings by Sex and Sector in Littleland in 2012,,
+,,
+,,
+sector,female hourly earnings,male hourly earnings
+0,125.07,132.91
+1,116.78,128.62
+2,122.24,132.08
+3,121.72,133.82
+4,117.26,129.9
+5,117.8,130.27
+6,124.38,131.97
+7,120.39,129.47
+9,112.76,128.9
+,,
+,,
+Footnote,,
+"For Sector :  1 = Food Industry, 2=Mining industry, 3=Manufacturing industry, 4=Retail, 5=Public, 6=Transportation, 7=Energy",,
+"Sector 0,9 undefined",,
+Missing values for sector are omitted,,
