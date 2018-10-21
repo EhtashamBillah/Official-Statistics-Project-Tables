@@ -1,0 +1,20 @@
+Average Yearly Income by Sector and Sex in Littleland in 2012,,
+,,
+,,
+sector,female ,male 
+0,236767.26,245796.03
+1,219232.76,243252.39
+2,229958.64,250026.4
+3,229614.89,252136.02
+4,221633.58,245079.7
+5,222871.53,245689.81
+6,234416.1,249904.93
+7,225967.75,244838.59
+9,214671.13,239125.48
+,,
+,,
+,,
+Footnote,,
+"For Sector :  1 = Food Industry, 2=Mining industry, 3=Manufacturing industry, 4=Retail, 5=Public, 6=Transportation, 7=Energy.",,
+Sector 0 and 9 are undefined.,,
+Missing values  for sector are omitted.,,
