@@ -1,20 +1,22 @@
-Total Number of Units by Sector in 2012,,
-,,
-sector,total local unit,
-0,51,
-1,231,
-2,243,
-3,619,
-4,437,
-5,336,
-6,234,
-7,105,
-9,28,
-,,
-,,
-Footnote,,
-"* For Sector :  1 = Food Industry, 2=Mining industry,",,
-" 3=Manufacturing industry, 4=Retail, 5=Public, ",,
-"6=Transportation, 7=Energy",,
-"* Sector 0,9 undefined",,
-* Missing values for sector are omitted,,
+Total Number of Local Units by Sector in 2012,
+,
+,
+sector,total local unit
+-9,74
+0,51
+1,231
+2,243
+3,619
+4,437
+5,336
+6,234
+7,105
+9,28
+,
+,
+Footnote,
+"* For Sector :  1 = Food Industry, 2=Mining industry,",
+" 3=Manufacturing industry, 4=Retail, 5=Public, ",
+"6=Transportation, 7=Energy",
+"* Sector 0,9 undefined",
+* Sector -9 refers to missing values in sector column,
